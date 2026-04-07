@@ -1,0 +1,5 @@
+*.o
+*.out
+*.exe
+a.out
+*.dSYM/

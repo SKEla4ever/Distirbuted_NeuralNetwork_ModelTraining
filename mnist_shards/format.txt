@@ -1,0 +1,5 @@
+3 int32_t metadata values: n_samples, n_features, n_classes
+
+then all features as float
+
+then all labels as int32_t
